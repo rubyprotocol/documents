@@ -200,7 +200,7 @@ vYboJjQVejlnkY0tJQIe3xELvUvvTUl7Fx14FLXH9QcgWH1PIobe1SroigBR67GqAWEIyMPBh65Dz+e2
 
 On the web page, we select "Extrinsic-->zeropool-->setVk", then copy the above VK to the "vkb" input box, like the following image, and then click "Signed":
 
-![alt](./imgs/vk.png?raw=true)
+![alt](https://raw.githubusercontent.com/Ruby-Protocol/private_ml/main/imgs/vk.png)
 
 Next, we retrieve the proof content:
 
@@ -213,7 +213,7 @@ println!("{}", snark.to_substrate_proof());
 
 On the web page, we select "Extrinsic-->zeropool-->testGroth16Verify", then copy the above content to the "jproofinput" input box, like the following image, and then click "Signed":
 
-![alt](./imgs/input.png?raw=true)
+![alt](https://raw.githubusercontent.com/Ruby-Protocol/private_ml/main/imgs/input.png)
 
 
 
